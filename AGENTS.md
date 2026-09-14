@@ -1,0 +1,2 @@
+- Never use em dashes (—) or decorative dot characters (•, ·); use standard punctuation.
+- Keep code comments short and useful; never add long, obvious, or redundant comments.
